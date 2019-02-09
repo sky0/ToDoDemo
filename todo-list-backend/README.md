@@ -18,5 +18,15 @@ The application is accessible at the following URL:
 
     http://localhost:8080/
     
+ Clone the repo
+
+git clone https://github.com/sky0/ToDoDemo/tree/master/todo-list-frontend
+
+Install dependencies
+
+npm install
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.   
+    
      
 
